@@ -24,8 +24,8 @@
         "thibaud-dauce/mattermost-php": "^1.0"
     },
     "require-dev": {
-        "nimut/testing-framework": "2.x-dev",
-        "phpunit/phpunit": "^4.8"
+        "nimut/testing-framework": "3.x-dev",
+        "phpunit/phpunit": "^6.0"
     },
     "suggest": {
         "friendsofphp/php-cs-fixer": "Tool to automatically fix PHP coding standards issues"
